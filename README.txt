@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/andrejmlinarevic/pen/NGGdVv.
+[link DNS][ ec2-52-32-65-236.us-west-2.compute.amazonaws.com]
+[link DATABASE][ ec2-52-32-65-236.us-west-2.compute.amazonaws.com/phpmyadmin]
 
  
